@@ -136,3 +136,16 @@ Eco-Friendly Tip:
 
 ## 📄 License
 This project is created for **educational purposes** as part of **1M1B – IBM SkillsBuild AI + Sustainability Virtual Internship**.
+
+---
+
+## 📬 Contact
+
+Want to collaborate or connect?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roniseikh)
+- 🐙 [GitHub](https://github.com/Roni-Seikh)
+
+---
+
+> Designed & developed with ❤️ by Roni Seikh
